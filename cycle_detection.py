@@ -1,5 +1,6 @@
 # Complete the has_cycle function below.
-
+#
+# Determines if there is a cycle in a singly linked list
 #
 # For your reference:
 #
